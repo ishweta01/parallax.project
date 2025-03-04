@@ -1,0 +1,11 @@
+final.html
+parallax.htmlgit add .gitignore
+git commit -m "Ignored parallax.html"
+flow.html
+flow2.html
+flower.html
+index.html
+index2.html
+semantic.html
+style.css
+images/
